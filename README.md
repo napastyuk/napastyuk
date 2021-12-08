@@ -28,5 +28,5 @@
 - Лендинг с тестом для Каталонии https://sletat.ru/special/catalunya/
 
 #### Некоторые из проектов в которых я принимал участие как front-разрботчик больше 2 лет назад
-https://credits.ru/
-личный кабинет для хостинга https://beget.com/ru
+- https://credits.ru/
+- личный кабинет для хостинга https://beget.com/ru
