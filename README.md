@@ -16,6 +16,7 @@
   - код: https://github.com/napastyuk/sea-capital-vue
   - ссылка: https://rent.morskayastolica.ru/
   
+  
 - Интерактивная 3d схема бизнес-центра
   - код: https://github.com/napastyuk/rotateSlider
   - ссылка: https://napastyuk.github.io/rotateSlider
