@@ -14,7 +14,7 @@
 - Интерактивная 3d схема бизнес-центра
   - код: https://github.com/napastyuk/rotateSlider
   - ссылка: https://napastyuk.github.io/rotateSlider
-- Конструктор для выбора помещения для аренды
+- Конструктор для выбора помещения в аренду
   - код: https://github.com/napastyuk/sea-capital-vue
   - ссылка: https://rent.morskayastolica.ru/
 
