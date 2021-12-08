@@ -11,12 +11,15 @@
 
 
 #### Проекты, разработанные мною лично в этом году:
-- Интерактивная 3d схема бизнес-центра
-  - код: https://github.com/napastyuk/rotateSlider
-  - ссылка: https://napastyuk.github.io/rotateSlider
+
 - Конструктор для выбора помещения в аренду
   - код: https://github.com/napastyuk/sea-capital-vue
   - ссылка: https://rent.morskayastolica.ru/
+  
+- Интерактивная 3d схема бизнес-центра
+  - код: https://github.com/napastyuk/rotateSlider
+  - ссылка: https://napastyuk.github.io/rotateSlider
+
 
 #### Некоторые из проектов за последние 2 года, разработанные в команде и находящиеся на поддержке:
 - https://riafan.ru/ (в роли ведущего разработчика)
