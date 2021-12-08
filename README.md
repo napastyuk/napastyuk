@@ -11,8 +11,12 @@
 
 
 #### Проекты сделанные лично в этом году
-- Интерактивная 3d схема бизнес-центра - https://github.com/napastyuk/rotateSlider
-- Конструктор для выбора помещения для аренды - https://github.com/napastyuk/sea-capital-vue
+- Интерактивная 3d схема бизнес-центра
+  - код: https://github.com/napastyuk/rotateSlider
+  - ссылка: https://napastyuk.github.io/rotateSlider
+- Конструктор для выбора помещения для аренды
+  - код: https://github.com/napastyuk/sea-capital-vue
+  - ссылка: https://rent.morskayastolica.ru/
 
 #### Некоторые из проектов сделанные за последние 2 года в команде и находящиеся на поддержке:
 - https://riafan.ru/
