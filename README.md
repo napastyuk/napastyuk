@@ -1,12 +1,13 @@
 ## Привет!
 ### Я front-end разработчик, живу и работаю в Санкт-Петербурге, Россия.
+C увлечением занимаюсь web-разработкой уже более 7 лет. Из них последний год разработкой на стеке Vue.js. Люблю и умею аккуратно верстать. 
 
 #### Мой текущий стек:
 - HTML,CSS,Less/Sass/Scss
 - Template engines: Handlebars, Blade, Pug
-- JavaScript: ES5/ES6+,
+- JavaScript: ES5/ES6+
 - Frameworks/Libraries: jQuery, Vue, Svelte
-- Building: Webpack, Gulp/Grant, Laravel Mix, Parsel, Gitlab CI
+- Building tools: Gulp, Grant, Webpack, Laravel Mix, Parsel, Gitlab CI, Github Actions
 - Virtualization: Docker
 
 
@@ -22,8 +23,8 @@
 
 
 #### Некоторые из проектов за последние 2 года, разработанные в команде и находящиеся на поддержке:
-- https://riafan.ru/ (в роли ведущего разработчика)
-- https://nevnov.ru/ (в роли ведущего разработчика)
+- новостной портал https://riafan.ru/
+- новостной портал https://nevnov.ru/
 
 #### Некоторые из проектов, разработанные мною лично более 2 лет назад:
 - Лэндинг для продвижения Формулы-1 в Бахрейне https://sletat.ru/special/bahrain/
