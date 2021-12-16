@@ -1,10 +1,10 @@
 ## Привет!
 ### Я front-end разработчик, живу и работаю в Санкт-Петербурге, Россия.
-C увлечением занимаюсь web-разработкой уже более 7 лет. Из них последний год разработкой на стеке Vue.js. Люблю и умею аккуратно верстать. 
+C увлечением занимаюсь web-разработкой уже более 7 лет. Из них последний год разработкой на стеке Vue.js. Люблю и умею аккуратно верстать. Есть опыт в SEO и оптимизации производительности.  
 
 #### Мой текущий стек:
-- HTML,CSS,Less/Sass/Scss
-- Template engines: Handlebars, Blade, Pug
+- HTML,CSS,Less/Sass/Scss/PostCSS
+- Template engines: Handlebars, Blade, Pug, ejs
 - JavaScript: ES5/ES6+
 - Frameworks/Libraries: jQuery, Vue, Svelte
 - Building tools: Gulp, Grant, Webpack, Laravel Mix, Parsel, Gitlab CI, Github Actions
