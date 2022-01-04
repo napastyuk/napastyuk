@@ -5,9 +5,9 @@ C увлечением занимаюсь web-разработкой уже бо
 
 #### Мой текущий стек:
 - HTML,CSS,Less/Sass/Scss/PostCSS
-- Template engines: Handlebars, Blade, Pug, ejs
-- JavaScript: ES5/ES6+
+- JavaScript: ES5/ES6+ 
 - Frameworks/Libraries: jQuery, Vue, Svelte
+- Template engines: Handlebars, Blade, Pug, ejs
 - Building tools: Gulp, Grant, Webpack, Laravel Mix, Parsel, Gitlab CI, Github Actions
 - Virtualization: Docker
 
